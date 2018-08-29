@@ -14,5 +14,9 @@
     "babel-preset-env": "^1.6.1",
     "jest": "^22.4.3",
     "parcel-bundler": "^1.7.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost:1234/"
   }
 }
